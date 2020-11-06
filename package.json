@@ -1,0 +1,28 @@
+{
+  "name": "laboratorio3arquisoft",
+  "version": "1.0.0",
+  "description": "Mi Calculadora UdeA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonrodrigueza/Laboratorio3Arquisoft.git"
+  },
+  "keywords": [
+    "Sumar",
+    "Restar",
+    "Dividir",
+    "Multiplicar"
+  ],
+  "author": "Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonrodrigueza/Laboratorio3Arquisoft/issues"
+  },
+  "homepage": "https://github.com/simonrodrigueza/Laboratorio3Arquisoft#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
